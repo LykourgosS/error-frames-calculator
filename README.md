@@ -4,7 +4,7 @@ An implementation of [motion compensation](https://en.wikipedia.org/wiki/Motion_
 ## Description
 * The program takes a video as an input (make sure video's filename is correct and in the same folder as the executable).
 * Promts the user to select either whole or block-based frame prediction.
-* Calculates the error frames. For block-based frame prediction, Two Dimensional Logarithmic Search (TDLS) is used.
+* Calculates the error frames. For block-based frame prediction, Logarithmic Search is used.
 * Returns a video with the error frames.
 
 (Note: Installation of Python libraries cv2 and numpy is required.)
