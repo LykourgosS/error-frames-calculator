@@ -1,5 +1,5 @@
 # error-frames-calculator
-An implementation of [motion compensation](https://en.wikipedia.org/wiki/Motion_compensation), used in video compression.
+An implementation of [motion compensation](https://en.wikipedia.org/wiki/Motion_compensation) used in video compression.
 
 ## Description
 * The program takes a video as an input (make sure video's filename is correct and in the same folder as the executable).
