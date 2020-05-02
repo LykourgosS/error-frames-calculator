@@ -3,7 +3,7 @@ An implementation of [motion compensation](https://en.wikipedia.org/wiki/Motion_
 
 ## Description
 * The program takes a video as an input (make sure video's filename is correct and in the same folder as the executable).
-* Promts the user to select either whole or block-based frame prediction.
+* Prompts the user to select either whole or block-based frame prediction.
 * Calculates the error frames. For block-based frame prediction, Logarithmic Search is used.
 * Returns a video with the error frames.
 
